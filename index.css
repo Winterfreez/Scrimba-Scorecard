@@ -10,9 +10,8 @@ body {
 .mainBox {
   margin: auto;
   padding: 50px;
-  max-width: 500px;
+  max-width: 400px;
   min-width: 300px;
-  max-height: 800px;
   background-color: #1b244a;
 }
 
